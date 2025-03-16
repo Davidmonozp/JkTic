@@ -1,0 +1,45 @@
+.card {
+    background: #2C3E50;
+    background: -webkit-linear-gradient(to bottom, #4CA1AF, #2C3E50);
+    background: linear-gradient(to bottom, #4CA1AF, #2C3E50);
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card-body {
+    background: #2C3E50;
+    background: -webkit-linear-gradient(to bottom, #4CA1AF, #2C3E50);
+    background: linear-gradient(to bottom, #4CA1AF, #2C3E50);
+    border-radius: 50px;
+}
+
+.text-center {
+    text-align: center !important;
+    color: white;
+}
+
+.card-body h3 {
+    color: white;
+}
+
+.form-label {
+    color: white;
+}
+
+.error-message {
+    color: rgb(228, 167, 25); 
+    font-size: 12px;
+    margin-top: 5px;
+  }
